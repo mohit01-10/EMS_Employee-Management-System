@@ -19,6 +19,7 @@
 
 
 ## Sample GIF
+![Demo](https://github.com/mohit01-10/EMS_Employee-Management-System/blob/Ems/Demo.gif)
 
 
 
@@ -26,4 +27,4 @@
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Ping me if youn need frontend!**
