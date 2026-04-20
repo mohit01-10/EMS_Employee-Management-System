@@ -19,6 +19,8 @@
 
 
 ## Sample GIF
+GitHub allows small size videos, so i had to bring it under the limit to upload. You might see the video being played slowly probably at 0.75x rate. 
+
 ![Demo](https://github.com/mohit01-10/EMS_Employee-Management-System/blob/Ems/Demo.gif)
 
 
